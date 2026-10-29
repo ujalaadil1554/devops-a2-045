@@ -24,3 +24,6 @@ using HTML and CSS.
 
 ## Run Locally
 Open index.html in a web browser.
+## CI/CD Verification
+
+GitHub Actions automatically validates the portfolio and builds the Docker image on every push to main.
